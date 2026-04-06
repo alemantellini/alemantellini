@@ -31,7 +31,18 @@ lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasifica
 ---
 
 ## 🛠️ Tools | Herramientas
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,flask" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-6A0572?style=flat&logoColor=white"/>
+</p>
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
 `Flask` · `Streamlit` · `NLP` · `LLM` · `SQL` · `Web scraping` · `EDA`
 `GitHub` · `Jupyter Notebook` · `Visual Studio Code`
@@ -45,11 +56,13 @@ lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasifica
 ## 🚀 Featured projects | Proyectos destacados
 🍷 **Wine Classifier**: Wine classification model using K-Nearest Neighbors.
 Predicts wine type from physicochemical features.
+
 🍷 **Clasificador de vinos**: Modelo de clasificación de vinos con K-Nearest Neighbors.
 Predicción del tipo de vino a partir de características fisicoquímicas.
 
 🎙️ **Streaming platforms subtitling**: 140+ Ted Talks transcribed, subtitled, and reviewed
 in English↔Spanish. QA and platform standards compliance.
+
 🎙️ **Subtitulado para plataformas de streaming**: +140 conferencias de TED transcritas, subtituladas
 y supervisadas en inglés↔español. Control de calidad y cumplimiento de estándares según la plataforma.
 
