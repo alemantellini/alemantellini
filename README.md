@@ -60,7 +60,7 @@ lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasifica
 Predicts wine type from physicochemical features.
 
 🍷 **Clasificador de vinos**: Modelo de clasificación de vinos con K-Nearest Neighbors.
-Predicción del tipo de vino a partir de características fisicoquímicas.
+Predice la calidad del vino a partir de características fisicoquímicas.
 
 🎙️ **Streaming platforms subtitling**: 140+ Ted Talks transcribed, subtitled,
 and reviewed in English↔Spanish. QA and streaming platform standards compliance.
