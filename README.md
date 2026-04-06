@@ -1,4 +1,5 @@
-## Hi there, I'm Alessandra! 👋
+## Hi, I'm Alessandra Mantellini! 👋
+## ¡Hola, soy Alessandra Mantellini! 👋
 
 <!--
 **alemantellini/alemantellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,3 +14,50 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+**Data Scientist | Multilingual Content Specialist | NLP Enthusiast**
+**Analista de datos | Especialista en contenido multilingüe | Entusiasta de NLP**
+
+---
+
+I combine 5+ years of experience in applied linguistics, subtitling, and localization
+with training in Data Science and Machine Learning. I'm passionate about the intersection
+of human language and data — from TED Talks to classification models.
+
+Combino más de 5 años de experiencia en lingüística aplicada, subtitulación y localización
+con formación en Data Science y Machine Learning. Me apasiona la intersección entre el
+lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasificación.
+
+---
+
+## 🛠️ Tools | Herramientas
+
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
+`Flask` · `Streamlit` · `NLP` · `LLM` · `SQL` · `Web scraping` · `EDA`
+`GitHub` · `Jupyter Notebook` · `Visual Studio Code`
+
+## 📚 Education | Formación
+- **Data Science & Machine Learning Bootcamp** · 4Geeks Academy Madrid (2026)
+- **Máster Oficial en Educación Bilingüe** · Universidad Europea de Madrid (2024)
+- **Máster Propio en Traducción Audiovisual: Subtitulación, Doblaje y Localización** · ISTRAD, Cádiz (2022)
+- **Grado en Estudios Ingleses** (Índice académico: 8,87/10) · Universidad Complutense de Madrid (2020)
+
+## 🚀 Featured projects | Proyectos destacados
+🍷 **Wine Classifier**: Wine classification model using K-Nearest Neighbors.
+Predicts wine type from physicochemical features.
+🍷 **Clasificador de vinos**: Modelo de clasificación de vinos con K-Nearest Neighbors.
+Predicción del tipo de vino a partir de características fisicoquímicas.
+
+🎙️ **Streaming platforms subtitling**: 140+ Ted Talks transcribed, subtitled, and reviewed
+in English↔Spanish. QA and platform standards compliance.
+🎙️ **Subtitulado para plataformas de streaming**: +140 conferencias de TED transcritas, subtituladas
+y supervisadas en inglés↔español. Control de calidad y cumplimiento de estándares según la plataforma.
+
+## 🌍 Languages | Idiomas
+`Español` (nativo) · `English` (C2) · `Français` (B1) · nociones de italiano & japonés
+
+## 📫 Let's connect! | ¡Contáctame!
+📍 Madrid, España
+✉️ mantellinialessandra13@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/)
+🎙️ [TED Translator](https://ted.com/profiles/31184490/translator)
