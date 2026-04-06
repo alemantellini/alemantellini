@@ -56,17 +56,13 @@ lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasifica
 - **Grado en Estudios Ingleses** (Índice académico: 8,87/10) · Universidad Complutense de Madrid (2020)
 
 ## 🚀 Featured projects | Proyectos destacados
-🍷 **Wine classifier**: Wine classification model using K-Nearest Neighbors. 
-Predicts wine type from physicochemical features.
+🍷 **Wine classifier**: Wine classification model using K-Nearest Neighbors. \nPredicts wine type from physicochemical features.
 
-🍷 **Clasificador de vinos**: Modelo de clasificación de vinos con K-Nearest Neighbors.
-Predice la calidad del vino a partir de características fisicoquímicas.
+🍷 **Clasificador de vinos**: Modelo de clasificación de vinos con K-Nearest Neighbors. \nPredice la calidad del vino a partir de características fisicoquímicas.
 
-🎙️ **Streaming platforms subtitling**: 140+ Ted Talks transcribed, subtitled,
-and reviewed in English↔Spanish. QA and streaming platform standards compliance.
+🎙️ **Streaming platforms subtitling**: 140+ Ted Talks transcribed, subtitled, and reviewed in English↔Spanish. \nQA and streaming platform standards compliance.
 
-🎙️ **Subtitulado para plataformas de streaming**: +140 conferencias de TED transcritas, subtituladas
-y supervisadas en inglés↔español. Control de calidad y cumplimiento de estándares según la plataforma.
+🎙️ **Subtitulado para plataformas de streaming**: +140 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español. \nControl de calidad y cumplimiento de estándares según la plataforma.
 
 ## 🌍 Languages | Idiomas
 `Spanish` (native) · `English` (C2) · `French` (B1) · Notions of Italian, Japanese, and Spanish Sign Language (LSE).
