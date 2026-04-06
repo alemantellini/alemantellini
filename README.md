@@ -71,10 +71,7 @@ y supervisadas en inglés↔español. Control de calidad y cumplimiento de está
 `Español` (nativo) · `English` (C2) · `Français` (B1) · nociones de italiano & japonés
 
 ## 📫 Let's connect! | ¡Contáctame!
-📍 Madrid, España
-
-✉️ mantellinialessandra13@gmail.com
-
-🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/)
-
-🎙️ [TED Translator](https://ted.com/profiles/31184490/translator)
+- 📍 Madrid, España
+- ✉️ mantellinialessandra13@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/)
+- 🎙️ [TED Translator](https://ted.com/profiles/31184490/translator)
