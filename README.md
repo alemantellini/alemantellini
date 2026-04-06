@@ -44,6 +44,7 @@ lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasifica
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-6A0572?style=flat&logoColor=white"/>
 </p>
+
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
 `Flask` · `Streamlit` · `NLP` · `LLM` · `SQL` · `Web scraping` · `EDA`
 `GitHub` · `Jupyter Notebook` · `Visual Studio Code`
@@ -55,23 +56,20 @@ lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasifica
 - **Grado en Estudios Ingleses** (Índice académico: 8,87/10) · Universidad Complutense de Madrid (2020)
 
 ## 🚀 Featured projects | Proyectos destacados
-🍷 **Wine Classifier**: Wine classification model using K-Nearest Neighbors.
-Predicts wine type from physicochemical features.
+🍷 **Wine Classifier**: 
+Wine classification model using K-Nearest Neighbors. Predicts wine type from physicochemical features.
 
-🍷 **Clasificador de vinos**: Modelo de clasificación de vinos con K-Nearest Neighbors.
-Predicción del tipo de vino a partir de características fisicoquímicas.
+🍷 **Clasificador de vinos**: 
+Modelo de clasificación de vinos con K-Nearest Neighbors. Predicción del tipo de vino a partir de características fisicoquímicas.
 
-🎙️ **Streaming platforms subtitling**: 140+ Ted Talks transcribed, subtitled, and reviewed
-in English↔Spanish. QA and streaming platform standards compliance.
+🎙️ **Streaming platforms subtitling**: 
+140+ Ted Talks transcribed, subtitled, and reviewed in English↔Spanish. QA and streaming platform standards compliance.
 
-🎙️ **Subtitulado para plataformas de streaming**: +140 conferencias de TED transcritas, subtituladas
-y supervisadas en inglés↔español. Control de calidad y cumplimiento de estándares según la plataforma.
+🎙️ **Subtitulado para plataformas de streaming**:
++140 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español. Control de calidad y cumplimiento de estándares según la plataforma.
 
 ## 🌍 Languages | Idiomas
 `Spanish` (native) · `English` (C2) · `French` (B1) · Notions of Italian, Japanese, and Spanish Sign Language (LSE).
 
 ## 📫 Let's connect! | ¡Contáctame!
-📍 Madrid, España
-✉️ mantellinialessandra13@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/)
-🎙️ [TED Translator](https://ted.com/profiles/31184490/translator)
+📍 Madrid, España · ✉️ mantellinialessandra13@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/) · 🎙️ [TED Translator](https://ted.com/profiles/31184490/translator)
