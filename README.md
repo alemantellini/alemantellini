@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 **Data Scientist | Multilingual Content Specialist | NLP Enthusiast**
+
 **Analista de datos | Especialista en contenido multilingüe | Entusiasta de NLP**
 
 ---
