@@ -68,10 +68,10 @@ in English↔Spanish. QA and streaming platform standards compliance.
 y supervisadas en inglés↔español. Control de calidad y cumplimiento de estándares según la plataforma.
 
 ## 🌍 Languages | Idiomas
-`Español` (nativo) · `English` (C2) · `Français` (B1) · nociones de italiano & japonés
+`Spanish` (native) · `English` (C2) · `French` (B1) · Notions of Italian, Japanese, and Spanish Sign Language (LSE).
 
 ## 📫 Let's connect! | ¡Contáctame!
-- 📍 Madrid, España
-- ✉️ mantellinialessandra13@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/)
-- 🎙️ [TED Translator](https://ted.com/profiles/31184490/translator)
+📍 Madrid, España
+✉️ mantellinialessandra13@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/)
+🎙️ [TED Translator](https://ted.com/profiles/31184490/translator)
