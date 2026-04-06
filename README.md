@@ -62,7 +62,7 @@ Predicts wine type from physicochemical features.
 Predicción del tipo de vino a partir de características fisicoquímicas.
 
 🎙️ **Streaming platforms subtitling**: 140+ Ted Talks transcribed, subtitled, and reviewed
-in English↔Spanish. QA and platform standards compliance.
+in English↔Spanish. QA and streaming platform standards compliance.
 
 🎙️ **Subtitulado para plataformas de streaming**: +140 conferencias de TED transcritas, subtituladas
 y supervisadas en inglés↔español. Control de calidad y cumplimiento de estándares según la plataforma.
@@ -72,6 +72,9 @@ y supervisadas en inglés↔español. Control de calidad y cumplimiento de está
 
 ## 📫 Let's connect! | ¡Contáctame!
 📍 Madrid, España
+
 ✉️ mantellinialessandra13@gmail.com
+
 🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/)
+
 🎙️ [TED Translator](https://ted.com/profiles/31184490/translator)
