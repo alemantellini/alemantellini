@@ -58,14 +58,11 @@ desde el procesamiento de textos a gran escala hasta los modelos de clasificaci�
 - **Grado en Estudios Ingleses** (Índice académico: 8,87/10) · Universidad Complutense de Madrid (2020)
 
 ## 🚀 Featured projects | Proyectos destacados
-🍷 **Wine classifier**: Classification model using K-Nearest Neighbors to predict wine quality based on physicochemical features.  
-Performed EDA, feature selection, and model evaluation.
+🍷 **Wine classifier**: Classification model using K-Nearest Neighbors to predict wine quality based on physicochemical features. Performed EDA, feature selection, and model evaluation.
 
-🍷 **Clasificador de vinos**: Modelo de clasificación con K-Nearest Neighbors para predecir la calidad del vino a partir de características fisicoquímicas.  
-Se llevaron a cabo el análisis exploratorio de datos (EDA), la selección de características y la evaluación del modelo.
+🍷 **Clasificador de vinos**: Modelo de clasificación con K-Nearest Neighbors para predecir la calidad del vino a partir de características fisicoquímicas. Se llevaron a cabo el análisis exploratorio de datos (EDA), la selección de características y la evaluación del modelo.
 
-🎙️ **Streaming platforms subtitling**: Transcribed, translated, and reviewed 140+ talks (English ↔Spanish), ensuring quality and platform compliance.  
-Developed strong attention to detail, linguistic consistency, and large-scale text handling.
+🎙️ **Streaming platforms subtitling**: Transcribed, translated, and reviewed 140+ talks (English ↔Spanish), ensuring quality and platform compliance. Developed strong attention to detail, linguistic consistency, and large-scale text handling.
 
 🎙️ **Subtitulado para plataformas de streaming**: +140 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español, garantizando la calidad y el cumplimiento de los requisitos de los clientes. He desarrollado una gran atención al detalle, coherencia lingüística y capacidad para gestionar textos a gran escala.
 
