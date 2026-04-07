@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Data Scientist | Multilingual Content Specialist | NLP Enthusiast**
+**Data Analyst | Linguistics & multilingual content specialist | NLP enthusiast**
 
-**Analista de datos | Especialista en contenido multilingüe | Entusiasta de NLP**
+**Analista de datos | Especialista en contenido multilingüe | Interesada en NPL**
 
 ---
 
-I combine 5+ years of experience in applied linguistics, subtitling, and localization
-with training in Data Science and Machine Learning. I'm passionate about the intersection
-of human language and data — from TED Talks to classification models.
+I combine 5+ years of experience in subtitling, localization, and linguistic analysis
+with training in Data Science and Machine Learning. I'm interested in building data-driven solutions
+at the intersection of language and AI — from large-scale text processing to classification models.
 
-Combino más de 5 años de experiencia en lingüística aplicada, subtitulación y localización
-con formación en Data Science y Machine Learning. Me apasiona la intersección entre el
-lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasificación.
+Cuento con más de 5 años de experiencia en subtitulado, localización y análisis lingüístico,
+además de formación en Data Science y Machine Learning. Me interesa desarrollar soluciones 
+basadas en datos a partir de la intersección entre el lenguaje y la IA,
+desde el procesamiento de textos a gran escala hasta los modelos de clasificación.
 
 ---
 
@@ -45,9 +46,10 @@ lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasifica
   <img src="https://img.shields.io/badge/NLP-6A0572?style=flat&logoColor=white"/>
 </p>
 
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
-`Flask` · `Streamlit` · `NLP` · `LLM` · `SQL` · `Web scraping` · `EDA`
-`GitHub` · `Jupyter Notebook` · `Visual Studio Code` · `Decision Trees`
+- `Python` (`Pandas` · `NumPy` · `Scikit-learn`)
+- `Data Analysis & Visualization` (`Matplotlib` · `Seaborn` · `EDA`)
+- `NLP` · `LLM` · `SQL` · `Web scraping` · `Decision Trees`
+- `Tools:` `Jupyter Notebook` · `Visual Studio Code` · `GitHub` · `Streamlit`· `Flask`
 
 ## 📚 Education | Formación
 - **Data Science & Machine Learning Bootcamp** · 4Geeks Academy Madrid (2026)
@@ -56,17 +58,16 @@ lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasifica
 - **Grado en Estudios Ingleses** (Índice académico: 8,87/10) · Universidad Complutense de Madrid (2020)
 
 ## 🚀 Featured projects | Proyectos destacados
-🍷 **Wine classifier**: Wine classification model using K-Nearest Neighbors.  
-Predicts wine type from physicochemical features.
+🍷 **Wine classifier**: Classification model using K-Nearest Neighbors to predict wine quality based on physicochemical features.  
+Performed EDA, feature selection, and model evaluation.
 
-🍷 **Clasificador de vinos**: Modelo de clasificación de vinos con K-Nearest Neighbors.  
-Predice la calidad del vino a partir de características fisicoquímicas.
+🍷 **Clasificador de vinos**: Modelo de clasificación con K-Nearest Neighbors para predecir la calidad del vino a partir de características fisicoquímicas.  
+Se llevaron a cabo el análisis exploratorio de datos (EDA), la selección de características y la evaluación del modelo.
 
-🎙️ **Streaming platforms subtitling**: 140+ Ted Talks transcribed, subtitled, and reviewed in English↔Spanish.  
-QA and streaming platform standards compliance.
+🎙️ **Streaming platforms subtitling**: Transcribed, translated, and reviewed 140+ talks (English ↔Spanish), ensuring quality and platform compliance.  
+Developed strong attention to detail, linguistic consistency, and large-scale text handling.
 
-🎙️ **Subtitulado para plataformas de streaming**: +140 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español.  
-Control de calidad y cumplimiento de estándares según la plataforma.
+🎙️ **Subtitulado para plataformas de streaming**: +140 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español, garantizando la calidad y el cumplimiento de los requisitos de los clientes. He desarrollado una gran atención al detalle, coherencia lingüística y capacidad para gestionar textos a gran escala.
 
 ## 🌍 Languages | Idiomas
 `Spanish` (native) · `English` (C2) · `French` (B1) · Notions of Italian, Japanese, and Spanish Sign Language (LSE).
