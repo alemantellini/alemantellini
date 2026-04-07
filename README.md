@@ -47,7 +47,7 @@ lenguaje humano y los datos: desde subtítulos de TED hasta modelos de clasifica
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
 `Flask` · `Streamlit` · `NLP` · `LLM` · `SQL` · `Web scraping` · `EDA`
-`GitHub` · `Jupyter Notebook` · `Visual Studio Code`
+`GitHub` · `Jupyter Notebook` · `Visual Studio Code` · `Decision Trees`
 
 ## 📚 Education | Formación
 - **Data Science & Machine Learning Bootcamp** · 4Geeks Academy Madrid (2026)
