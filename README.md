@@ -64,7 +64,7 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 🎙️ **Subtitulado para plataformas de streaming**: +140 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español, garantizando la calidad y el cumplimiento de los requisitos de los clientes. He desarrollado una gran atención al detalle, coherencia lingüística y experiencia en la gestión de conjuntos de datos de texto a gran escala.
 
 ## 🌍 Languages | Idiomas
-`Spanish` (native) · `English` (C2) · `French` (B1) · Notions of Italian, Japanese, and Spanish Sign Language (LSE).
+`Spanish` (native) · `English` (C2) · `French` (B1) · Notions of `Italian`, `Japanese`, and `Spanish Sign Language (LSE)`.
 
 ## 📫 Let's connect! | ¡Contáctame!
 📍 Madrid, España · ✉️ mantellinialessandra13@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/) · 🎙️ [TED Translator](https://ted.com/profiles/31184490/translator)
