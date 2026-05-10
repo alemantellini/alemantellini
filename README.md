@@ -55,9 +55,13 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 - **Grado en Estudios Ingleses** (Índice académico: 8,87/10) · Universidad Complutense de Madrid (2020)
 
 ## 🚀 Featured projects | Proyectos destacados
-🍷 **Wine classifier**: Classification model using K-Nearest Neighbors to predict wine quality based on physicochemical features. Performed exploratory data analysis (EDA), correlation analysis, and feature exploration, followed by model training and evaluation.
+🍷 **Wine classifier**: Classification model using K-Nearest Neighbors to predict wine quality based on physicochemical features. Performed exploratory data analysis (EDA), correlation analysis, and feature exploration, followed by model training and evaluation. Deployed as an interactive web app using Streamlit and Render. 🌐 [Live demo](https://app-web-de-ml-usando-streamlit-1.onrender.com/)
 
-🍷 **Clasificador de vinos**: Modelo de clasificación con K-Nearest Neighbors para predecir la calidad del vino a partir de características fisicoquímicas. Se llevó a cabo un análisis exploratorio de datos (EDA), un análisis de correlación y una exploración de características, seguido del entrenamiento y la evaluación del modelo.
+🍷 **Clasificador de vinos**: Modelo de clasificación con K-Nearest Neighbors para predecir la calidad del vino a partir de características fisicoquímicas. Se llevó a cabo un análisis exploratorio de datos (EDA), un análisis de correlación y una exploración de características, seguidos del entrenamiento y la evaluación del modelo. Fue desplegado como una aplicación web interactiva con Streamlit y Render. 🌐 [Demo en vivo](https://app-web-de-ml-usando-streamlit-1.onrender.com/)
+
+🩺 **Diabetes predictor · DiabetesScan app:** Binary classification model using Random Forest to predict diabetes risk based on clinical data from the Pima Indians Diabetes dataset. Includes EDA, feature analysis, model training, and optimization. Deployed as a web app using Flask and Render. 🌐 [Live demo](https://app-web-de-ml-usando-flask.onrender.com/)
+
+🩺 **Predictor de diabetes · App DiabetesScan:** Modelo de clasificación binaria con Random Forest para predecir el riesgo de diabetes a partir de datos clínicos del dataset Pima Indians Diabetes. Incluye EDA, análisis de características, entrenamiento y optimización del modelo. Fue desplegado como una aplicación web con Flask y Render. 🌐 [Demo en vivo](https://app-web-de-ml-usando-flask.onrender.com/)
 
 🎙️ **Streaming platforms subtitling**: Transcribed, translated, and reviewed 140+ talks (English ↔Spanish), ensuring quality and platform compliance. Developed strong attention to detail, linguistic consistency, and large-scale text datasets.
 
