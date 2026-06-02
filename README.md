@@ -55,6 +55,10 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 - **Grado en Estudios Ingleses** (Índice académico: 8,87/10) · Universidad Complutense de Madrid (2020)
 
 ## 🚀 Featured projects | Proyectos destacados
+🔊 **Sound alert detection system · MIVIA:** Multiclass supervised classification model to detect dangerous urban sounds in real time (gunshots, sirens, explosions, car crashes). Built a custom dataset of 100K+ records by homogenizing 11 heterogeneous sources. Includes full EDAs, feature engineering, and a hybrid binary/multiclass pipeline. 🔗 [Repository](https://github.com/triopeligro/proyecto4geeks)
+
+🔊 **Sistema de detección de alertas sonoras · MIVIA:** Modelo de clasificación multiclase supervisada para detectar sonidos urbanos peligrosos en tiempo real (disparos, sirenas, explosiones, accidentes). Dataset de elaboración propia con +100.000 registros construido a partir de 11 fuentes heterogéneas. Incluye EDAs, ingeniería de características y un pipeline híbrido binario/multiclase. 🔗 [Repositorio](https://github.com/triopeligro/proyecto4geeks)
+
 🍷 **Wine classifier**: Classification model using K-Nearest Neighbors to predict wine quality based on physicochemical features. Performed exploratory data analysis (EDA), correlation analysis, and feature exploration, followed by model training and evaluation. Deployed as an interactive web app using Streamlit and Render. 🌐 [Live demo](https://app-web-de-ml-usando-streamlit-1.onrender.com/)
 
 🍷 **Clasificador de vinos**: Modelo de clasificación con K-Nearest Neighbors para predecir la calidad del vino a partir de características fisicoquímicas. Se llevó a cabo un análisis exploratorio de datos (EDA), un análisis de correlación y una exploración de características, seguidos del entrenamiento y la evaluación del modelo. Fue desplegado como una aplicación web interactiva con Streamlit y Render. 🌐 [Demo en vivo](https://app-web-de-ml-usando-streamlit-1.onrender.com/)
