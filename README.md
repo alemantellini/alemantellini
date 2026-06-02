@@ -1,5 +1,4 @@
-## Hi, I'm Alessandra Mantellini! 👋
-## ¡Hola, soy Alessandra Mantellini! 👋
+## Hi, I'm Alessandra Mantellini! 👋 | ¡Hola, soy Alessandra Mantellini! 👋
 
 <!--
 **alemantellini/alemantellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
