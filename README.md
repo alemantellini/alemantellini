@@ -41,12 +41,11 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
   <img src="https://img.shields.io/badge/NLP-6A0572?style=flat&logoColor=white"/>
 </p>
 
-- `Python` (`Pandas` · `NumPy` · `Scikit-learn`)
-- `Data Analysis & Visualization` (`EDA` · `Matplotlib` · `Seaborn`)
-- `Machine Learning` (`KNN` · `Decision Trees`)
-- `NLP (foundations)` · `LLM (basics)`
-- `SQL` · `Web scraping`
-- `Tools:` `Jupyter Notebook` · `Visual Studio Code` · `GitHub` · `Streamlit` · `Flask`
+- `Programming languages` (`Python` · `SQL`)
+- `Data analysis` (`Pandas` · `NumPy` · `EDA` · `Jupyter Notebook`)
+- `Visualization` (`Matplotlib` · `Seaborn` · `Streamlit`)
+- `Machine Learning` (`NLP` · `LLM` · `KNN` · `Scikit-learn` · `Decision Trees`)
+- `Tools:` `Git` · `GitHub` · `Flask` · `Visual Studio Code`
 
 ## 📚 Education | Formación
 - **Data Science & Machine Learning Bootcamp** · 4Geeks Academy Madrid (2026)
