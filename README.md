@@ -4,7 +4,7 @@
 
 **Data Analyst | Linguistics & multilingual content specialist | NLP enthusiast**
 
-I combine 5+ years of experience in subtitling, localization, and linguistic analysis with training in Data Science and Machine Learning, bringing a unique perspective to language-driven data problems. I'm interested in building data-driven solutions at the intersection of language and AI — from large-scale text processing to classification models, with a growing focus on NLP applications.
+I combine 5+ years of experience in subtitling, localization, and linguistic analysis with training in Data Science and Machine Learning, bringing a unique perspective to language-driven data problems. I'm interested in building data-driven solutions at the intersection of language and AI, from large-scale text processing to classification models, with a growing focus on NLP applications.
 
 **Analista de datos | Especialista en contenido multilingüe | Interesada en NLP**
 
@@ -38,7 +38,7 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 - **Data Science & Machine Learning Bootcamp** · 4Geeks Academy Madrid (2026)
 - **Máster Oficial en Educación Bilingüe** · Universidad Europea de Madrid (2024)
 - **Máster Propio en Traducción Audiovisual: Subtitulación, Doblaje y Localización** · ISTRAD & Universidad de Cádiz (2022)
-- **Grado en Estudios Ingleses** (Índice académico: 8,87/10) · Universidad Complutense de Madrid (2020)
+- **Grado en Estudios Ingleses** (GPA: 8,87/10) · Universidad Complutense de Madrid (2020)
 
 ---
 
@@ -48,7 +48,7 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 
 | English | Español |
 |---|---|
-| Multiclass supervised classification model to detect dangerous urban sounds in real time (gunshots, sirens, explosions, car crashes). Built a custom dataset of 100K+ records by homogenizing 11 heterogeneous sources. Includes full EDAs, feature engineering, and a hybrid binary/multiclass pipeline. | Modelo de clasificación multiclase supervisada para detectar sonidos urbanos peligrosos en tiempo real (disparos, sirenas, explosiones, accidentes). Dataset de elaboración propia con +100.000 registros construido a partir de 11 fuentes heterogéneas. Incluye EDAs, ingeniería de características y un pipeline híbrido binario/multiclase. |
+| Multiclass supervised classification model to detect dangerous urban sounds in real time (gunshots, sirens, explosions, car crashes). Built a custom dataset of 100K+ records by homogenizing 11 heterogeneous sources. Includes full EDAs, feature engineering, and a hybrid binary/multiclass pipeline. | Modelo de clasificación multiclase supervisada para detectar sonidos urbanos peligrosos en tiempo real (disparos, sirenas, explosiones, accidentes). Dataset de elaboración propia con más de 100.000 registros construido a partir de 11 fuentes heterogéneas. Incluye EDAs, ingeniería de características y un pipeline híbrido binario/multiclase. |
 | `Python` `Classification` `Feature engineering` `EDA` | 🔗 [Repository / Repositorio](https://github.com/triopeligro/proyecto4geeks) |
 
 ---
