@@ -1,26 +1,12 @@
 ## Hi, I'm Alessandra Mantellini! 👋 | ¡Hola, soy Alessandra Mantellini! 👋
 
-<!--
-**alemantellini/alemantellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+---
 
 **Data Analyst | Linguistics & multilingual content specialist | NLP enthusiast**
 
-**Analista de datos | Especialista en contenido multilingüe | Interesada en NLP**
-
----
-
 I combine 5+ years of experience in subtitling, localization, and linguistic analysis with training in Data Science and Machine Learning, bringing a unique perspective to language-driven data problems. I'm interested in building data-driven solutions at the intersection of language and AI — from large-scale text processing to classification models, with a growing focus on NLP applications.
+
+**Analista de datos | Especialista en contenido multilingüe | Interesada en NLP**
 
 Cuento con más de 5 años de experiencia en subtitulado, localización y análisis lingüístico, además de formación en Data Science y Machine Learning, lo que me permite aportar una perspectiva única a los problemas relacionados con los datos lingüísticos. Me interesa desarrollar soluciones basadas en datos a partir de la intersección entre el lenguaje y la IA, desde el procesamiento de textos a gran escala hasta los modelos de clasificación, con un interés cada vez mayor por las aplicaciones relacionadas con el NLP.
 
@@ -46,15 +32,17 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 - `Machine Learning` (`NLP` · `LLM` · `KNN` · `Scikit-learn` · `Decision Trees`)
 - `Tools:` `Git` · `GitHub` · `Flask` · `Visual Studio Code`
 
+---
+
 ## 📚 Education | Formación
 - **Data Science & Machine Learning Bootcamp** · 4Geeks Academy Madrid (2026)
 - **Máster Oficial en Educación Bilingüe** · Universidad Europea de Madrid (2024)
 - **Máster Propio en Traducción Audiovisual: Subtitulación, Doblaje y Localización** · ISTRAD & Universidad de Cádiz (2022)
 - **Grado en Estudios Ingleses** (Índice académico: 8,87/10) · Universidad Complutense de Madrid (2020)
 
-## 🚀 Featured projects | Proyectos destacados
-
 ---
+
+## 🚀 Featured projects | Proyectos destacados
 
 ### 🔊 Sound alert detection system · MIVIA | Sistema de detección de alertas sonoras · MIVIA
 
@@ -90,8 +78,12 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 | Transcribed, translated, and reviewed 140+ talks (English ↔Spanish), ensuring quality and platform compliance. Developed strong attention to detail, linguistic consistency, and large-scale text datasets. | +140 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español, garantizando la calidad y el cumplimiento de los requisitos de los clientes. He desarrollado una gran atención al detalle, coherencia lingüística y experiencia en la gestión de conjuntos de datos de texto a gran escala. |
 | `Subtitling` `Localization` `EN ↔ ES` | [TED portfolio](https://www.ted.com/profiles/translator) |
 
+---
+
 ## 🌍 Languages | Idiomas
 `Spanish` (native) · `English` (C2) · `French` (B1) · Notions of `Italian`, `Japanese`, and `Spanish Sign Language (LSE)`.
+
+---
 
 ## 📫 Let's connect! | ¡Contáctame!
 📍 Madrid, España · ✉️ mantellinialessandra13@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/) · 🎙️ [TED portfolio](https://ted.com/profiles/31184490/translator)
