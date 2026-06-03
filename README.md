@@ -75,7 +75,7 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 
 | English | Español |
 |---|---|
-| Transcribed, translated, and reviewed 150+ talks (English ↔ Spanish), ensuring quality and platform compliance. Developed strong attention to detail, linguistic consistency, and large-scale text datasets. | +140 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español, garantizando la calidad y el cumplimiento de los requisitos de los clientes. He desarrollado una gran atención al detalle, coherencia lingüística y experiencia en la gestión de conjuntos de datos de texto a gran escala. |
+| Transcribed, translated, and reviewed 150+ talks (English ↔ Spanish), ensuring quality and platform compliance. Developed strong attention to detail, linguistic consistency, and large-scale text datasets. | +150 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español, garantizando la calidad y el cumplimiento de los requisitos de los clientes. He desarrollado una gran atención al detalle, coherencia lingüística y experiencia en la gestión de conjuntos de datos de texto a gran escala. |
 | `Subtitling` `QA` `Localization` `EN ↔ ES` | [TED portfolio](https://www.ted.com/profiles/translator) |
 
 ---
