@@ -36,7 +36,7 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 
 ## 📚 Education | Formación
 - **Data Science & Machine Learning Bootcamp** · 4Geeks Academy Madrid (2026)
-- **Máster Oficial en Educación Bilingüe** · Universidad Europea de Madrid (2024)
+- **Máster Oficial en Educación Bilingüe** · Universidad Europea de Canarias (2024)
 - **Máster Propio en Traducción Audiovisual: Subtitulación, Doblaje y Localización** · ISTRAD & Universidad de Cádiz (2022)
 - **Grado en Estudios Ingleses** (GPA: 8,87/10) · Universidad Complutense de Madrid (2020)
 
@@ -75,13 +75,13 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 
 | English | Español |
 |---|---|
-| Transcribed, translated, and reviewed 140+ talks (English ↔ Spanish), ensuring quality and platform compliance. Developed strong attention to detail, linguistic consistency, and large-scale text datasets. | +140 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español, garantizando la calidad y el cumplimiento de los requisitos de los clientes. He desarrollado una gran atención al detalle, coherencia lingüística y experiencia en la gestión de conjuntos de datos de texto a gran escala. |
+| Transcribed, translated, and reviewed 150+ talks (English ↔ Spanish), ensuring quality and platform compliance. Developed strong attention to detail, linguistic consistency, and large-scale text datasets. | +140 conferencias de TED transcritas, subtituladas y supervisadas en inglés↔español, garantizando la calidad y el cumplimiento de los requisitos de los clientes. He desarrollado una gran atención al detalle, coherencia lingüística y experiencia en la gestión de conjuntos de datos de texto a gran escala. |
 | `Subtitling` `QA` `Localization` `EN ↔ ES` | [TED portfolio](https://www.ted.com/profiles/translator) |
 
 ---
 
 ## 🌍 Languages | Idiomas
-`Spanish` (native) · `English` (C2) · `French` (B1) · Notions of `Italian`, `Japanese`, and `Spanish Sign Language (LSE)`.
+`Spanish` (native) · `English` (C2) · `French` (B2) · Notions of `Italian` (B1), `Japanese` (A2), and `Spanish Sign Language (LSE)`.
 
 ---
 
