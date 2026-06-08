@@ -49,7 +49,7 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 | English | Español |
 |---|---|
 | Multiclass supervised classification model to detect dangerous urban sounds in real time (gunshots, sirens, explosions, car crashes). Built a custom dataset of 100K+ records by homogenizing 11 heterogeneous sources. Includes full EDAs, feature engineering, and a hybrid binary/multiclass pipeline. | Modelo de clasificación multiclase supervisada para detectar sonidos urbanos peligrosos en tiempo real (disparos, sirenas, explosiones, accidentes). Dataset de elaboración propia con más de 100.000 registros construido a partir de 11 fuentes heterogéneas. Incluye EDAs, ingeniería de características y un pipeline híbrido binario/multiclase. |
-| `Python` `Classification` `Feature engineering` `EDA` | 🔗 [Repository / Repositorio](https://github.com/triopeligro/proyecto4geeks) |
+| `Python` `Classification` `Feature engineering` `EDA` | 🌐 [Live demo / Demo en vivo](https://mivia-font.vercel.app/) |
 
 ---
 
