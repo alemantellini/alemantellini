@@ -86,4 +86,4 @@ Cuento con más de 5 años de experiencia en subtitulado, localización y análi
 ---
 
 ## 📫 Let's connect! | ¡Contáctame!
-📍 Madrid, España · ✉️ mantellinialessandra13@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/) · 🎙️ [TED portfolio](https://ted.com/profiles/31184490/translator)
+📍 Madrid, España · ✉️ mantellinialessandra13@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/alessandra-mantellini-lucas/) · 🎙️ [TED portfolio](https://www.ted.com/profiles/31535502/translator)
